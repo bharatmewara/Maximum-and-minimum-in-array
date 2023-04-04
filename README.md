@@ -1,7 +1,6 @@
-#my code
 
 
-public class myname{
+    public class myname{
     public static int findsum(int A[], int N){
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
@@ -22,4 +21,4 @@ public class myname{
 
         System.out.println(findsum(A, N));
     }
-}
+    }
